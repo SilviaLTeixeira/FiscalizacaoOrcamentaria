@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "silvialuiza@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "email": "jean_c_mazzolli123789@hotmail.com",
+      "password": "250795jean",
+      "id": 2
+    }
+  ],
+  "orcamentos": [
+    {
+      "clientName": "Jean carlos mazzolli",
+      "payment": "credito",
+      "note": "nenhuma",
+      "subTotal": "626",
+      "addiction": "858",
+      "deduction": "100",
+      "total": 1384,
+      "id": 1
+    },
+    {
+      "clientName": "Raniele ",
+      "payment": "dinheiro",
+      "note": "Vai pagar a vista",
+      "subTotal": "984",
+      "addiction": "50",
+      "deduction": "100",
+      "total": 934,
+      "id": 2
+    }
+  ],
+  "clientes": [
+    {
+      "clientName": "dsgsgdsgds",
+      "idClient": "854189489498",
+      "note": "dgsdgsdggdsgdsgdsdgs",
+      "address": "dgsgdsgdsdgs",
+      "email": "dsgdgsdgsgd@dsfdgdgs",
+      "telefone": "45945945995",
+      "socialMidia": "dsgdsdsgdgs",
+      "id": 1
+    },
+    {
+      "clientName": "Silvia",
+      "idClient": "2259191989619",
+      "note": "Nenhuma",
+      "address": "oisadfojfdodfs",
+      "email": "silvia@gmail.com",
+      "telefone": "4795969749749",
+      "socialMidia": "foaoosdo.com",
+      "id": 2
+    }
+  ]
+}
