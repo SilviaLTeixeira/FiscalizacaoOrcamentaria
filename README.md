@@ -1,6 +1,9 @@
 # FiscalizacaoOrcamentaria
  
- Fizcalizacao orçamentaria é um projeto feito em react.js com typescript simulando um sistema de administrador onde voce pode entrar com o seu login e dentro dele registrar clientes , registrar orçamento e ver o que voce registrou . Tudo que voce registra nele vai para um json-server que pode ser visto no arquivo db.json 
+ Fizcalizacao orçamentaria é um projeto feito em react.js com typescript simulando um sistema de administrador onde voce pode entrar com o seu login e dentro dele registrar clientes , registrar orçamento e ver o que voce registrou . Tudo que voce registra nele vai para um json-server que pode ser visto no arquivo db.json
+ 
+ Login : silvialuiza@gmail.com
+ Senha: 12345678
  
  # Como rodar o projeto 
  
